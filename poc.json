@@ -1,8 +1,8 @@
 {
-    "url": "https://main.d1kb2dgdtjbz4t.amplifyapp.com/poc.yaml",
+    "url": "https://manshum812.github.io/swagger-xss/poc.yaml",
     "urls": [
         {
-            "url": "https://main.d1kb2dgdtjbz4t.amplifyapp.com/poc.yaml",
+            "url": "https://manshum812.github.io/swagger-xss/poc.yaml",
             "name": "Foo"
         }
     ]
